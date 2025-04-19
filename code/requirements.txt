@@ -1,0 +1,17 @@
+## Basics
+pytest
+Pygments
+
+## Plugin tour
+pytest-cov
+pytest-instafail
+pytest-reportlog
+# Problematic for various reasons:
+# - Doesn't install correctly in PyCharm for some people (?)
+# - Needs pylib, which results in a deprecation warning
+# - Pulls in pytest-metadata, which is a bit verbose in its pytest_report_header
+#   output
+# pytest-html
+
+## Live-demos with Jupyter notebooks
+ipykernel  # allows participants to view notebooks in VS Code
