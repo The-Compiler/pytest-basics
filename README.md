@@ -1,9 +1,5 @@
 # pytest: Simple, rapid and fun testing with Python
 
-## Q&A
-
-[PyConDE Slido](https://app.sli.do/event/24bWdyRSGod8DbRpGHcThr/?section=2151c07b-fcee-4114-81ba-1ba6dc5773cb)
-
 ## Setup instructions
 
 - We'll be using pytest on the commandline for the training.
