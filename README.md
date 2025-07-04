@@ -23,7 +23,7 @@
 - In case of trouble/questions, please feel free to ask! Any of these will work fine:
     - [`florian@bruhin.software`](mailto:florian@bruhin.software)
     - IRC: `The-Compiler` on [Libera Chat](https://libera.chat/)
-    - [`@the_compiler` on Discord](https://discord.com/users/329364263896481802) (e.g. Python Discord or PyConDE)
+    - [`@the_compiler` on Discord](https://discord.com/users/329364263896481802) (e.g. [Python Discord](https://www.pythondiscord.com/) or [EuroPython Discord](https://ep2025.europython.eu/discord))
 
 ## Preparation
 
