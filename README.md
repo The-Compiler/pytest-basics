@@ -1,5 +1,7 @@
 # pytest: Simple, rapid and fun testing with Python
 
+![Snake wrapped around a panflute](./snake.png)
+
 ## Setup instructions
 
 - We'll be using pytest on the commandline for the training.
