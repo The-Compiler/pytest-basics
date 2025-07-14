@@ -21,7 +21,7 @@
     - `pip install -r code/requirements.txt`
 - Check everything works:
     - Check `python3 --version` (Windows: `py -3 --version`), make sure you run 3.8 or newer.
-    - Check `pytest --version`, you should see 8.2.x ideally (7.0+ is ok)
+    - Check `pytest --version`, you should see 8.4.x ideally (7.0+ is ok)
 - In case of trouble/questions, please feel free to ask! Any of these will work fine:
     - [`florian@bruhin.software`](mailto:florian@bruhin.software)
     - IRC: `The-Compiler` on [Libera Chat](https://libera.chat/)
